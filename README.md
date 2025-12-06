@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HOLDINGS one-word domains still available to buy.
 
-This dataset contains 4,542 .HOLDINGS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,537 .HOLDINGS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HOLDINGS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=holdings-oneword-domains&utm_content=description.top) (4,542) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.HOLDINGS one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.holdings        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.holdings        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.holdings      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.holdings  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.holdings      | available | 43       | 2%     | 5      |           |         |         |
