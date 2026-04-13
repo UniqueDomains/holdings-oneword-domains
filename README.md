@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .holdings one-word domains from Un
 
 **Public extract:** 9,271 rows · **Live catalog:** 9,271 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/holdings`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | technology.holdings | premium   | $260      | $260          | 88             | 35     | 10     | namecheap             |
 | law.holdings        | available | $81.98    | —             | 82             | 46     | 3      | namecheap             |
 | book.holdings       | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.       |
-| gas.holdings        | premium   | $128.70   | $128.70       | 72             | 32     | 3      | namecheap             |
+| ten.holdings        | premium   | $123.75   | $123.75       | 88             | 31     | 3      | name.com              |
 | wow.holdings        | available | $80.99    | —             | 80             | 46     | 3      | name.com              |
-| alpha.holdings      | resell    | —         | —             | 90             | 54     | 5      | GoDaddy.com, LLC      |
+| shop.holdings       | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
