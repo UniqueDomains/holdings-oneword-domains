@@ -1,22 +1,22 @@
-# Available .HOLDINGS One-Word Domains (9,271)
+# Available .HOLDINGS One-Word Domains (11,687)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C271%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C271%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C687%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .holdings one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .holdings one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,687 domains** on the canonical page below.
 
-**Public extract:** 9,271 rows · **Live catalog:** 9,271 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,687 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/holdings`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOLDINGS one-word dom
 
 ### Files
 
-- `holdings.csv` — public CSV extract (9,271 rows)
-- `holdings.json` — public JSON extract (9,271 rows)
+- `holdings.csv` — public CSV extract (1,000 rows)
+- `holdings.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| silver.holdings     | available | $81.98    | —             | 56             | 99     | 6      | namecheap             |
-| dot.holdings        | resell    | —         | —             | 74             | 58     | 3      | 1API GmbH             |
-| all.holdings        | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com              |
-| free.holdings       | available | $80.99    | $84.99        | 88             | 54     | 4      | name.com              |
-| live.holdings       | resell    | —         | —             | 108            | 56     | 4      | Spaceship, Inc.       |
-| car.holdings        | premium   | $85.80    | $85.80        | 94             | 46     | 3      | namecheap             |
-| make.holdings       | available | $80.99    | —             | 82             | 47     | 4      | name.com              |
-| smart.holdings      | resell    | —         | —             | 74             | 56     | 5      | NameSilo, LLC         |
-| food.holdings       | premium   | $260      | $260          | 94             | 44     | 4      | namecheap             |
-| only.holdings       | available | $80.99    | $84.99        | 110            | 46     | 4      | name.com              |
-| data.holdings       | resell    | —         | —             | 70             | 56     | 4      | DropCatch.com 382 LLC |
-| research.holdings   | premium   | $85.80    | $85.80        | 92             | 39     | 8      | namecheap             |
-| snap.holdings       | available | $80.99    | $84.99        | 90             | 46     | 4      | name.com              |
-| good.holdings       | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC      |
-| technology.holdings | premium   | $260      | $260          | 88             | 35     | 10     | namecheap             |
-| law.holdings        | available | $81.98    | —             | 82             | 46     | 3      | namecheap             |
-| book.holdings       | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.       |
-| ten.holdings        | premium   | $123.75   | $123.75       | 88             | 31     | 3      | name.com              |
-| wow.holdings        | available | $80.99    | —             | 80             | 46     | 3      | name.com              |
-| shop.holdings       | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC           |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cars.holdings         | available | $80.99    | —             | 66             | 47     | 4      | name.com  |
+| events.holdings       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
+| Tools.holdings        | available | $81.98    | —             | 56             | 40     | 5      | namecheap |
+| matcha.holdings       | available | $80.99    | —             | 86             | 39     | 6      | name.com  |
+| justin.holdings       | available | $80.99    | —             | 58             | 38     | 7      | name.com  |
+| WiFi.holdings         | available | $81.98    | —             | 83             | 37     | 5      | namecheap |
+| neuroscience.holdings | available | $80.99    | —             | 80             | 37     | 12     | name.com  |
+| hammer.holdings       | available | $80.99    | —             | 74             | 35     | 6      | name.com  |
+| aliens.holdings       | available | $64.99    | $64.99        | 56             | 35     | 6      | namesilo  |
+| Cats.holdings         | available | $81.98    | —             | 59             | 33     | 4      | namecheap |
+| maps.holdings         | available | $80.99    | —             | 56             | 31     | 4      | name.com  |
+| videos.holdings       | available | $80.99    | —             | 52             | 30     | 6      | name.com  |
+| heroes.holdings       | available | $80.99    | —             | 68             | 29     | 6      | name.com  |
+| commonground.holdings | available | $80.99    | —             | 74             | 28     | 13     | name.com  |
+| backyard.holdings     | available | $80.99    | —             | 80             | 27     | 9      | name.com  |
+| systems.holdings      | available | $80.99    | —             | 46             | 27     | 7      | name.com  |
+| tips.holdings         | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
+| has.holdings          | available | $80.99    | —             | 60             | 26     | 3      | name.com  |
+| destination.holdings  | available | $80.99    | —             | 90             | 25     | 11     | name.com  |
+| Trex.holdings         | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,271-row public sample | 9,271 live domains                               |
+| 1,000-row public sample | 11,687 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
