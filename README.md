@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .holdings one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,243 domains · **Median ask:** $78.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/holdings`  
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | systems.holdings      | available | $80.99    | —             | 46             | 27     | 7      | name.com  |
 | tips.holdings         | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
 | has.holdings          | available | $80.99    | —             | 60             | 26     | 3      | name.com  |
-| destination.holdings  | available | $80.99    | —             | 90             | 25     | 11     | name.com  |
+| destination.holdings  | available | $80.99    | —             | 90             | 24     | 11     | name.com  |
 | Trex.holdings         | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
 | chem.holdings         | available | $80.99    | —             | 74             | 24     | 4      | name.com  |
 | toys.holdings         | available | $64.99    | $64.99        | 60             | 24     | 4      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
