@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .holdings one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,243 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,243 domains · **Median ask:** $78.39 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,243 domains · **Median ask:** $70.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/holdings`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/holdings`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOLDINGS one-word dom
 
 ### Files
 
-- `holdings.csv` — public CSV extract (1,000 rows)
-- `holdings.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `holdings.csv`, public CSV extract (1,000 rows)
+- `holdings.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Tools.holdings        | available | $81.98    | —             | 56             | 40     | 5      | namecheap |
-| events.holdings       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| matcha.holdings       | available | $80.99    | —             | 86             | 39     | 6      | name.com  |
-| justin.holdings       | available | $80.99    | —             | 58             | 38     | 7      | name.com  |
-| neuroscience.holdings | available | $80.99    | —             | 80             | 37     | 12     | name.com  |
-| hammer.holdings       | available | $80.99    | —             | 74             | 35     | 6      | name.com  |
-| Cats.holdings         | available | $81.98    | —             | 59             | 33     | 4      | namecheap |
-| maps.holdings         | available | $80.99    | —             | 56             | 31     | 4      | name.com  |
-| videos.holdings       | available | $80.99    | —             | 52             | 30     | 6      | name.com  |
-| heroes.holdings       | available | $80.99    | —             | 68             | 29     | 6      | name.com  |
-| commonground.holdings | available | $80.99    | —             | 74             | 28     | 13     | name.com  |
-| backyard.holdings     | available | $80.99    | —             | 80             | 27     | 9      | name.com  |
-| systems.holdings      | available | $80.99    | —             | 46             | 27     | 7      | name.com  |
-| tips.holdings         | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
-| has.holdings          | available | $80.99    | —             | 60             | 26     | 3      | name.com  |
-| destination.holdings  | available | $80.99    | —             | 90             | 24     | 11     | name.com  |
-| Trex.holdings         | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
-| chem.holdings         | available | $80.99    | —             | 74             | 24     | 4      | name.com  |
-| toys.holdings         | available | $64.99    | $64.99        | 60             | 24     | 4      | namesilo  |
-| superhero.holdings    | available | $80.99    | —             | 84             | 23     | 9      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| apt.holdings       | available | $80.99    | —             | high           | low    | 3      | name.com               |
+| oil.holdings       | resell    | —         | —             | high           | low    | 3      | Network Solutions, LLC |
+| NYC.holdings       | premium   | $242      | $242          | high           | medium | 3      | namesilo               |
+| bar.holdings       | available | $64.99    | $64.99        | high           | low    | 3      | namesilo               |
+| book.holdings      | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.        |
+| fund.holdings      | premium   | $123.75   | —             | high           | low    | 4      | name.com               |
+| day.holdings       | available | $64.99    | $64.99        | high           | low    | 3      | namesilo               |
+| tech.holdings      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc            |
+| sale.holdings      | premium   | $123.75   | —             | high           | low    | 4      | name.com               |
+| fat.holdings       | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo               |
+| european.holdings  | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC       |
+| dutch.holdings     | premium   | $250      | $250          | high           | low    | 5      | name.com               |
+| Fla.holdings       | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo               |
+| company.holdings   | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo               |
+| IDK.holdings       | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo               |
+| WestCoast.holdings | premium   | $118.80   | $118.80       | medium         | low    | 10     | namesilo               |
+| ivy.holdings       | available | $64.99    | $64.99        | high           | low    | 3      | namesilo               |
+| kid.holdings       | available | $64.99    | $64.99        | high           | low    | 3      | namesilo               |
+| law.holdings       | available | $64.99    | $64.99        | high           | medium | 3      | namesilo               |
+| lay.holdings       | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .holdings domains. The names range from simple dictionary words like frog.holdings and bicycle.holdings to more abstract terms like qualitative.holdings and makegood.holdings. For founders, the best choices are usually the ones that read clearly, sound credible, and match an asset, family office, investment, or umbrella-company context. For investors, the key question is whether the word improves commercial relevance inside the .holdings extension rather than relying on the word alone. With a median ask of 78.39, price may be accessible, but the stronger names are still the ones with clear meaning, clean spelling, and obvious end-user fit.
+This list of .holdings domains contains 12,243 one-word names, with a median asking price near $71. Most combine common English words into a single ownable string, a format well suited for holding companies, project brands, or niche ventures seeking a short, memorable .holdings address. Because .holdings has no default trademark association, evaluating each domain for word clarity, renewal cost, and prior trademark use is the most reliable way to choose confidently among these names.
 
-- Prioritize words that fit ownership, assets, or group structures
-- Short, clear dictionary words are easier to evaluate quickly
-- Check whether the word adds credibility inside .holdings
-- Weaker fits are vague words with little financial context
+- 12,243 one-word .holdings domain names in this set
+- Median asking price near $71 across the list
+- Names merge common words into single brandable strings
+- Check renewal cost and trademark risk before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
