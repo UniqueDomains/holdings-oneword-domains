@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .holdings one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,236 domains · **Median ask:** $68.29 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/holdings`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
