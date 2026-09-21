@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .holdings one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,424 domains · **Median ask:** $67.04 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/holdings`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| youtube.holdings   | available | —         | —             | high           | medium | 7      | —                                           |
+| heavy.holdings     | available | $80.99    | —             | high           | low    | 5      | name.com                                    |
 | apt.holdings       | available | $80.99    | —             | high           | low    | 3      | name.com                                    |
 | oil.holdings       | resell    | —         | —             | high           | low    | 3      | Network Solutions, LLC                      |
 | nyc.holdings       | premium   | $242      | $242          | high           | medium | 3      | namesilo                                    |
@@ -82,8 +84,6 @@ print(df.head())
 | fla.holdings       | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo                                    |
 | idk.holdings       | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo                                    |
 | iii.holdings       | available | $64.99    | $64.99        | low            | low    | 3      | namesilo                                    |
-| ivy.holdings       | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                    |
-| kid.holdings       | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLDINGS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
