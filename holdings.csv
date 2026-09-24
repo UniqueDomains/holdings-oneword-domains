@@ -36,7 +36,7 @@ ac43c153-5cd7-463e-a64f-7fd5036fc9e5,firetruck.holdings,available,64.99,64.99,hi
 1366069a-1dda-4dc4-bdd7-94f77e3b7e95,northandsouth.holdings,available,64.99,64.99,medium,low,15,namesilo,,,
 9a07ccb5-9e16-4ff9-beed-db4623e23b56,gooutside.holdings,available,64.99,64.99,high,low,10,namesilo,,,
 949211e4-4ff5-4666-864e-45cab1bb33a4,shear.holdings,available,64.99,64.99,medium,low,5,namesilo,,,
-3ccf694c-2666-4216-9a67-6a468ace08a3,weak.holdings,available,80.99,84.99,medium,low,4,name.com,,,
+3ccf694c-2666-4216-9a67-6a468ace08a3,weak.holdings,available,67.98,81.98,low,low,4,namecheap,,,24/09/2026 04:57
 5a5949fd-ba71-4949-ad18-b730e659b155,painted.holdings,available,64.99,64.99,medium,low,7,namesilo,,,
 d4a466ce-9d9d-4717-a22a-32d5a84eedad,bulletinboard.holdings,available,64.99,64.99,medium,low,14,namesilo,,,
 604ea5f2-21c3-4a83-9baa-8b83bc49cef6,fla.holdings,available,64.99,64.99,medium,low,3,namesilo,,,
@@ -44,7 +44,7 @@ aa915f15-8158-4996-bd60-22c852ee445f,covetous.holdings,available,64.99,64.99,low
 d1e279a0-8896-48ea-88f5-3a355c8e9969,beguiling.holdings,available,64.99,64.99,medium,low,9,namesilo,,,22/09/2026 01:38
 fa2e0618-8691-4b73-ae65-23be06dc3411,affirm.holdings,available,,,high,low,6,,,,
 0e9c0220-dc6a-44c9-8125-f5a208dde2bc,iknow.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
-8fb7e551-3aa9-4e5c-9842-5f6fca6c9010,positive.holdings,available,64.99,64.99,high,low,8,namesilo,,,
+8fb7e551-3aa9-4e5c-9842-5f6fca6c9010,positive.holdings,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 14:53
 13ee04c4-0c75-4d2f-aebe-7d7c073598ac,multiplayer.holdings,available,64.99,64.99,medium,low,11,namesilo,,,
 9eb7ce39-9e2f-42a6-8d18-a1f5f540d567,youguys.holdings,available,64.99,64.99,low,low,8,namesilo,,,
 59e1bf7f-23bd-4a08-a406-94cc389047bd,harold.holdings,available,64.99,64.99,high,low,6,namesilo,,,
@@ -66,8 +66,7 @@ a327d7f0-0d62-42fe-80da-4d9099a427ab,strange.holdings,available,64.99,64.99,medi
 66cf443c-0ad9-4099-a193-19d52d318333,nutritious.holdings,available,64.99,64.99,medium,low,10,namesilo,,,19/09/2026 11:02
 8a4805b0-96b2-4d55-8112-2ad9d81821f7,grinning.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 e805085c-0232-41c3-b2dd-37761bc1194b,mon.holdings,available,80.99,,high,low,3,name.com,,,
-3773ae94-aa48-4883-93e4-3fb0dd672af5,yellow.holdings,available,64.99,64.99,high,low,6,namesilo,,,
-2bd9b78f-cfa8-4247-8f26-b5a6ccb80b19,oil.holdings,resell,,,high,low,3,"Network Solutions, LLC",04/02/2014 00:12,04/02/2028 00:12,
+3773ae94-aa48-4883-93e4-3fb0dd672af5,yellow.holdings,available,67.98,81.98,medium,low,6,namecheap,,,23/09/2026 14:15
 b11a2986-4da3-41f7-9c4c-3076c81cb4df,passable.holdings,available,64.99,64.99,medium,low,8,namesilo,,,
 a954953b-9741-4015-85bd-bdf95bfc9aa9,touring.holdings,available,64.99,64.99,high,low,7,namesilo,,,
 3f1a1d21-9033-4d17-ada4-95a22fc8c9be,twin.holdings,available,64.99,64.99,high,low,4,namesilo,,,
@@ -88,7 +87,7 @@ aa4f2913-185d-4ed6-984f-fef23c5e5fdb,goin.holdings,available,64.99,64.99,low,low
 0a2751f3-3962-42ed-8a2d-6ec5ad03af5c,paperback.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 055e201d-05bd-4a6e-b35f-407b6fcd8e3a,patriotic.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 df2a94f4-b3be-4bfc-8414-b3955a57cd9f,kill.holdings,available,80.99,84.99,medium,low,4,name.com,,,
-c2864afc-6c5e-44b1-b06e-61176a5bb77f,choppy.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
+c2864afc-6c5e-44b1-b06e-61176a5bb77f,choppy.holdings,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 14:30
 9eb02fec-7e62-4f1e-be93-e846f46a71c0,shin.holdings,available,64.99,64.99,medium,low,4,namesilo,,,
 dc4ed65e-d2ee-41ba-81b7-f3c31699ced4,gutfeeling.holdings,available,64.99,64.99,high,low,11,namesilo,,,
 4fb8cbdd-56f4-4914-a9fd-fe708c91187a,chiefexecutive.holdings,available,64.99,64.99,high,low,15,namesilo,,,
@@ -144,12 +143,12 @@ df119b64-de17-403a-b22a-3a5a230628b4,entirely.holdings,available,64.99,64.99,low
 a8bd7948-2fb7-426b-b570-eee79c35ccb8,sore.holdings,available,64.99,64.99,low,low,4,namesilo,,,
 3c686070-f103-42b0-93a8-1821a7c4aedd,standback.holdings,available,64.99,64.99,low,low,10,namesilo,,,
 ef515008-30cc-4546-9d7f-d3dde0092311,heroic.holdings,available,80.99,,high,low,6,name.com,,,
-cad786f4-b408-44a7-b628-abc3d8e092af,virtual.holdings,resell,,,medium,low,7,GoDaddy Online Services Cayman Islands Ltd.,24/04/2015 05:10,24/04/2027 05:10,19/09/2026 09:02
+cad786f4-b408-44a7-b628-abc3d8e092af,virtual.holdings,resell,,,medium,low,7,GoDaddy Online Services Cayman Islands Ltd.,24/04/2015 05:10,24/04/2027 05:10,23/09/2026 07:18
 b6b9b8e4-43e7-4b22-9814-ccc7b1eacd75,fascinate.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 8882e432-5c2d-4865-8b03-2850b49e9fc9,eaten.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 7b3ad18f-7485-4d6e-a0fd-ec699296212e,mostly.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
 1566d1cf-c4cf-408b-88ae-02f0ed0c039a,softly.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
-f23372e3-49a6-439f-b9ce-d7dc551b3ba4,middle.holdings,available,64.99,64.99,high,low,6,namesilo,,,
+f23372e3-49a6-439f-b9ce-d7dc551b3ba4,middle.holdings,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:24
 9c56ccb6-addb-4666-b611-0aa8f895135b,pinkelephant.holdings,available,64.99,64.99,medium,low,13,namesilo,,,
 2e57659c-51ba-45b6-8284-3ff4a7bfbb9b,callfor.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 ef2b0c0e-eab1-4deb-9992-9e4a1bfa8811,putacross.holdings,available,64.99,64.99,high,low,10,namesilo,,,
@@ -205,9 +204,9 @@ bca9df77-c025-4187-a74e-a6025766d70c,based.holdings,available,80.99,84.99,medium
 762850ff-93bf-409a-99c3-c47aad0a49c6,seated.holdings,available,64.99,64.99,high,low,6,namesilo,,,
 d26a39a0-42f9-474a-af40-f40fefd73185,attendant.holdings,available,64.99,64.99,medium,low,9,namesilo,,,21/09/2026 15:40
 c82e8a81-ce8e-4524-8382-b3cc8dbaacb6,atoxic.holdings,available,64.99,64.99,low,low,6,namesilo,,,07/08/2026 14:04
-eea47291-e27a-4247-a43c-476ce3ef7462,shining.holdings,available,64.99,64.99,high,low,7,namesilo,,,
+eea47291-e27a-4247-a43c-476ce3ef7462,shining.holdings,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 11:49
 8f76e78b-e46c-4e6b-b07b-bf487018edc3,leadership.holdings,available,64.99,64.99,high,low,10,namesilo,,,
-a7745f08-a4e9-4f6f-963b-61226c92f0be,buried.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
+a7745f08-a4e9-4f6f-963b-61226c92f0be,buried.holdings,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 11:29
 b9a67820-f49d-42db-a3c5-f371019d740d,tomboy.holdings,available,80.99,,medium,low,7,name.com,,,
 6132244f-a3f6-4bba-94a4-901dfcd68e3f,saucepan.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 9f4b9776-8104-4623-b835-36fb64cefa97,needing.holdings,available,64.99,64.99,high,low,7,namesilo,,,
@@ -254,7 +253,7 @@ d7ee5668-ada3-411d-942b-acdcfe7a9038,squinty.holdings,available,64.99,64.99,low,
 0127080a-843d-472e-baed-35b26873300f,rhoda.holdings,available,64.99,64.99,medium,low,5,namesilo,,,
 b58390f8-e5ce-46eb-b73a-4f6db0ea6263,westham.holdings,available,64.99,64.99,low,low,8,namesilo,,,
 953fc29b-58b9-4791-afe0-94e7bee667c9,westhill.holdings,available,64.99,64.99,low,low,9,namesilo,,,
-5781fb9f-cf2b-4b72-83cc-51d18359d4cf,contrary.holdings,available,80.99,84.99,high,low,8,name.com,,,
+5781fb9f-cf2b-4b72-83cc-51d18359d4cf,contrary.holdings,available,64.99,64.99,low,low,8,namesilo,,,23/09/2026 22:29
 43cb527f-f445-4150-b953-13094125d1b4,intime.holdings,available,80.99,,medium,low,7,name.com,,,
 d35e3911-e8f6-48a0-92f1-4457f32ddfed,canoe.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 58c2b00a-493c-4ee3-a158-b172c18976d7,hereditary.holdings,available,64.99,64.99,low,low,10,namesilo,,,
@@ -303,7 +302,7 @@ d9a26456-0ee5-4f4a-868c-4cde33d3f835,phil.holdings,available,64.99,64.99,high,me
 48f67da3-83cc-4204-8afa-87dc89b4d427,bothered.holdings,available,64.99,64.99,low,low,8,namesilo,,,23/09/2026 01:08
 ed85ea9d-4ded-4042-b063-295ae7728dfc,chiaseed.holdings,available,80.99,,high,low,9,name.com,,,
 874f8ee9-9200-49f5-a6ea-46451422c315,quadruplet.holdings,available,64.99,64.99,low,low,10,namesilo,,,
-81f0deb3-78af-4be0-a86d-c3c6cc57bb3b,corny.holdings,available,80.99,84.99,medium,low,5,name.com,,,
+81f0deb3-78af-4be0-a86d-c3c6cc57bb3b,corny.holdings,available,64.99,64.99,low,low,5,namesilo,,,23/09/2026 23:25
 6893d2e9-6b0c-4a62-af60-6a0831b51a03,avertable.holdings,available,64.99,64.99,low,low,9,namesilo,,,07/08/2026 23:01
 dc19d124-eb9c-476f-ab4c-c89b517420cc,phoebe.holdings,available,64.99,64.99,low,low,6,namesilo,,,
 3152d86a-8710-4723-a670-04c85340a183,fillin.holdings,available,64.99,64.99,low,low,7,namesilo,,,21/09/2026 16:17
@@ -359,7 +358,7 @@ fa6c30c4-5907-4fc0-b4f4-7ffd028cd8f7,wwwpage.holdings,available,64.99,64.99,high
 db0dc708-e427-462c-bf84-7fe4fc79f4cb,fiftysix.holdings,available,64.99,64.99,low,low,9,namesilo,,,
 8d0950de-1b4d-4dd0-8034-65df106d3ba6,appointed.holdings,available,64.99,64.99,low,low,9,namesilo,,,06/08/2026 07:21
 d7a6ffdc-be34-493b-9c15-c3921e5bd398,sumbody.holdings,available,64.99,64.99,medium,low,7,namesilo,,,
-970441dc-c647-4b5c-b561-f4a497563d10,seize.holdings,available,80.99,84.99,medium,low,5,name.com,,,
+970441dc-c647-4b5c-b561-f4a497563d10,seize.holdings,available,67.98,81.98,low,low,5,namecheap,,,23/09/2026 20:08
 70e7b933-8bf0-492d-a448-8f93bcee7adb,dorightby.holdings,available,64.99,64.99,high,low,11,namesilo,,,
 4bd17d9d-1865-4bc5-99bb-2ed318cb98c0,anamnestic.holdings,available,64.99,64.99,low,low,10,namesilo,,,
 91adadf8-e3ad-488f-9f29-4502eebd632e,tonguetwister.holdings,available,80.99,,low,low,14,name.com,,,
@@ -375,14 +374,14 @@ bcf0ea64-e844-4cff-814f-18d24fef52c0,parenting.holdings,available,64.99,64.99,hi
 9b5bc190-843d-4987-889d-00b61946da20,hopeful.holdings,available,64.99,64.99,low,low,7,namesilo,,,22/09/2026 09:48
 fd981c86-8f4c-4a5b-aa7e-3a4236fda736,award.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 f614ef05-ba4b-4386-ae38-c8e46a8d7049,watt.holdings,available,64.99,64.99,medium,low,4,namesilo,,,
-a99cf939-5a20-481a-866f-41ceca32e9f5,occupy.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
+a99cf939-5a20-481a-866f-41ceca32e9f5,occupy.holdings,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 12:12
 fd069071-76f3-440c-949a-da7a32f92782,demo.holdings,available,64.99,64.99,high,medium,4,namesilo,,,
 22eb014b-2eaa-4d3d-9044-c15f84e527a9,ihearyousay.holdings,available,64.99,64.99,medium,low,14,namesilo,,,
 f0bbb587-4ca2-4dfb-98a3-26bace4dcb25,havesex.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 6011f7c4-0fa6-49a2-9421-8d646c5219ca,branded.holdings,available,64.99,64.99,low,low,7,namesilo,,,23/09/2026 02:22
 9f3c1096-a134-4527-8fbd-632674afb304,eventhough.holdings,available,64.99,64.99,medium,low,11,namesilo,,,
 78792123-4879-4a97-87ed-77fba78803f7,day.holdings,available,64.99,64.99,high,low,3,namesilo,,,
-b4527547-cb28-474d-9c83-67406873048f,caring.holdings,available,64.99,64.99,high,low,6,namesilo,,,
+b4527547-cb28-474d-9c83-67406873048f,caring.holdings,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:03
 303e9a20-24f5-4cee-bee1-1fb8e6c54e1e,bowlegged.holdings,available,64.99,64.99,low,low,9,namesilo,,,08/08/2026 11:55
 f2b48b0a-2382-44a9-aa75-f166ccdbe17d,twelve.holdings,available,67.98,81.98,medium,low,6,namecheap,,,21/09/2026 11:23
 06d02e5e-c7f7-428e-8050-df9c3750284e,firstname.holdings,available,64.99,64.99,high,low,10,namesilo,,,
@@ -393,14 +392,14 @@ d60401d0-880c-477d-84a4-64acc6838c1d,xxii.holdings,available,64.99,64.99,low,low
 ee8319ad-6ee8-46d0-8e4f-5615bb1c6678,physically.holdings,available,64.99,64.99,low,low,10,namesilo,,,19/09/2026 14:53
 b3de6972-5278-4ea3-bc7e-dc669ddb1b86,memorize.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 458446b1-188b-4f29-903f-6b3f03475009,fungicidal.holdings,available,64.99,64.99,low,low,10,namesilo,,,
-9bea8946-c573-4432-baf1-9e5f8fc28f96,mandatory.holdings,available,80.99,84.99,high,low,9,name.com,,,
+9bea8946-c573-4432-baf1-9e5f8fc28f96,mandatory.holdings,available,67.98,81.98,medium,low,9,namecheap,,,23/09/2026 18:22
 1fed8628-0845-45ee-ada7-c4bc4659dba5,springsnow.holdings,available,64.99,64.99,low,low,11,namesilo,,,
 6ae55d06-a64c-4b07-bc5a-650e86a0fcd1,actress.holdings,available,64.99,64.99,high,low,7,namesilo,,,
 aed30ec3-9c96-46cb-9673-9eadda623e62,closequarters.holdings,available,64.99,64.99,medium,low,14,namesilo,,,
 3bef90bc-dd35-4ad8-9979-56d398573e8b,dose.holdings,available,64.99,64.99,high,low,4,namesilo,,,
 a8bb7acb-04dc-47c6-a912-a32575216cdc,barbed.holdings,available,64.99,64.99,low,low,6,namesilo,,,08/08/2026 16:36
 37cd652b-fe66-43de-bfcd-e5d25c9a1cbe,butif.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
-d2c9d691-7b03-486d-bbf1-0de8fda1e003,funny.holdings,available,64.99,64.99,high,low,5,namesilo,,,
+d2c9d691-7b03-486d-bbf1-0de8fda1e003,funny.holdings,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 15:21
 4998b0bb-220a-4318-bc06-073457d31d4f,aphyllous.holdings,available,64.99,64.99,low,low,9,namesilo,,,05/08/2026 23:42
 2116c2b6-4a72-45fe-af94-ceb4a29c4b6a,babies.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
 ade11b45-d105-4df9-b65a-c2e05304a15d,pretzel.holdings,available,64.99,64.99,high,low,7,namesilo,,,
@@ -461,7 +460,7 @@ ad06b5c4-8f85-4746-b68e-f98fc768fb78,thorpe.holdings,available,64.99,64.99,mediu
 95fd33c7-d8e1-4ecf-bc6c-0af1e80a2d4d,lips.holdings,available,80.99,,medium,low,4,name.com,,,
 b00c163b-67d7-4e54-a1ab-78d45a3cfeb7,passive.holdings,available,64.99,64.99,high,low,7,namesilo,,,
 05653b06-2c1a-4950-9027-886aa186d9bb,lay.holdings,available,64.99,64.99,medium,low,3,namesilo,,,
-b143d15d-d94e-4f04-bfcd-69d53a3bc01e,comedian.holdings,available,64.99,64.99,high,low,8,namesilo,,,
+b143d15d-d94e-4f04-bfcd-69d53a3bc01e,comedian.holdings,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 15:26
 aee133dd-f330-4b27-8e97-6c26cce1b1ec,supermarket.holdings,available,64.99,64.99,high,low,11,namesilo,,,
 f92d1372-a6b2-4a9a-91f6-db301b539531,instantmessage.holdings,available,80.99,,high,low,15,name.com,,,
 9adcfbcf-0bf1-4822-ba83-d748149be67d,sensual.holdings,available,64.99,64.99,low,low,7,namesilo,,,22/09/2026 04:34
@@ -511,14 +510,14 @@ dc6bea97-3bcc-44cf-b4df-0a25e2c096de,robed.holdings,available,64.99,64.99,low,lo
 6f112a93-7956-4e26-8370-41b40fa3a3dd,tragic.holdings,available,64.99,64.99,high,low,6,namesilo,,,
 097c6af6-f92d-43c6-8d2e-aa6722cddc7e,divert.holdings,available,80.99,84.99,high,low,6,name.com,,,
 da001d9d-11c6-4080-8cb8-9294b4b7bcc3,attheoutside.holdings,available,64.99,64.99,medium,low,14,namesilo,,,
-d41374cb-9f8f-4ced-bb05-8c3de84e2ed3,player.holdings,available,64.99,64.99,low,low,6,namesilo,,,19/09/2026 09:54
+d41374cb-9f8f-4ced-bb05-8c3de84e2ed3,player.holdings,available,67.98,81.98,low,low,6,namecheap,,,23/09/2026 07:45
 72628b6e-6eff-48e9-aa08-b858a9435f41,pre.holdings,available,64.99,64.99,medium,low,3,namesilo,,,
 cf76a466-89ba-49ee-a013-075d109fb442,woops.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 55b29898-aed3-437f-af2a-26b2d0306764,detailing.holdings,available,64.99,64.99,medium,low,9,namesilo,,,
 6ea5f33f-4263-4b62-ad13-2d3ebf3baf1f,pimply.holdings,available,64.99,64.99,low,low,6,namesilo,,,
 a92281cb-b30b-4746-983a-5f639e093486,sthelena.holdings,available,64.99,64.99,medium,low,10,namesilo,,,
 db2d08e8-5dc2-4812-ab4e-ec7c0998466b,auxinic.holdings,available,64.99,64.99,low,low,7,namesilo,,,07/08/2026 21:34
-3a737a7a-204b-43f8-8570-22e9f523b566,centre.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
+3a737a7a-204b-43f8-8570-22e9f523b566,centre.holdings,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 13:22
 bab4c654-32e5-40e8-b1cb-5539244c573a,atop.holdings,available,64.99,64.99,medium,low,4,namesilo,,,
 96c95a2f-a911-4c71-931a-89dcc7df8311,layer.holdings,available,64.99,64.99,medium,low,5,namesilo,,,
 8555a0df-b32d-4861-8767-9097762bb624,licensed.holdings,available,67.98,81.98,medium,low,8,namecheap,,,19/09/2026 16:56
@@ -577,7 +576,7 @@ b48fc0f2-ae82-4592-855b-6d43c6173cbd,baby.holdings,available,64.99,64.99,high,lo
 37ecc645-4527-4921-8ac7-c167c761afcc,barren.holdings,available,64.99,64.99,low,low,6,namesilo,,,08/08/2026 20:57
 1b9fc339-4df2-4ad1-b6f7-3cde5b8fec99,robotic.holdings,available,64.99,64.99,low,low,7,namesilo,,,22/09/2026 14:05
 e63ab91d-f082-4eba-bf0d-42857e090a4d,fiercely.holdings,available,64.99,64.99,medium,low,8,namesilo,,,
-9cce568e-36b8-47f8-a4e4-a3639e6ad260,inherent.holdings,available,64.99,64.99,medium,low,8,namesilo,,,
+9cce568e-36b8-47f8-a4e4-a3639e6ad260,inherent.holdings,available,64.99,64.99,low,low,8,namesilo,,,23/09/2026 10:30
 301f4f05-f86f-4d78-9336-41d73bf00708,autumn.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
 2b920a31-3860-4bf8-96c6-3450898a1d56,westcoast.holdings,premium,118.8,118.8,medium,low,10,namesilo,,,
 f9748d33-9e47-4194-9dee-51a42afb7020,givecredit.holdings,available,64.99,64.99,high,low,11,namesilo,,,
@@ -618,7 +617,7 @@ c5609406-9345-4fd0-9460-0558fc5c1f80,amebic.holdings,available,64.99,64.99,low,l
 0b61b220-046a-47e1-b693-96b991a0b995,talkedabout.holdings,available,80.99,,medium,low,12,name.com,,,
 60250965-a2d4-491d-8ca1-558520a3f789,lightuparoom.holdings,available,64.99,64.99,high,low,15,namesilo,,,
 4437cad0-aa33-467b-ac38-9674ee7180cc,seriously.holdings,available,64.99,64.99,medium,low,9,namesilo,,,
-9dbc10e3-4a2e-4e0a-bdc1-8cdab06cf4aa,laughable.holdings,available,64.99,64.99,medium,low,9,namesilo,,,
+9dbc10e3-4a2e-4e0a-bdc1-8cdab06cf4aa,laughable.holdings,available,64.99,64.99,low,low,9,namesilo,,,23/09/2026 15:25
 5397ce8d-8a8b-4b43-b13a-a3ebb7fb7cff,nostrilhair.holdings,available,80.99,,low,low,12,name.com,,,
 264515d5-89e1-4d5d-a67f-b81a96e8c997,sextet.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
 8c5c0e6b-4c92-4803-94f7-3dc40a4bf850,congestion.holdings,available,64.99,64.99,medium,low,10,namesilo,,,
@@ -628,7 +627,7 @@ c792296f-7b3b-4fc3-877b-4795144d7baf,flight.holdings,available,64.99,64.99,high,
 fb8c90e5-f173-4f8e-a8b8-b7d9366cb8b9,humans.holdings,available,64.99,64.99,high,medium,6,namesilo,,,
 8435cb49-a4f4-45b7-bda5-2f09c7532d04,nephew.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
 60792239-9b67-4155-8d73-3b84c276740a,ethnic.holdings,available,80.99,,high,low,6,name.com,,,
-a7b32caa-fc27-4ce7-ae02-7d6ccd1d1d4d,insulting.holdings,available,80.99,84.99,high,low,9,name.com,,,
+a7b32caa-fc27-4ce7-ae02-7d6ccd1d1d4d,insulting.holdings,available,64.99,64.99,low,low,9,namesilo,,,23/09/2026 21:52
 16fead94-8dc2-4747-8136-1bad3e8676b2,terminating.holdings,available,64.99,64.99,low,low,11,namesilo,,,08/09/2026 14:51
 766b5733-63d5-4468-91fc-5738d126d87d,granddad.holdings,available,80.99,,high,low,8,name.com,,,
 af282869-10e8-4def-a874-c16df0cb4131,lettersandscience.holdings,available,64.99,64.99,high,low,19,namesilo,,,
@@ -662,7 +661,6 @@ b9e861b3-9827-4e99-aae9-0b284f9a9d47,inform.holdings,available,64.99,64.99,low,l
 fc1c5230-309b-471c-a398-eedb371f740a,tohellwith.holdings,available,64.99,64.99,low,low,12,namesilo,,,
 f1f13c70-7bbd-48d2-983f-6be24f613ccf,amnesic.holdings,available,64.99,64.99,low,low,7,namesilo,,,
 b57045d3-489d-4f2f-ba8d-6e3bbe4a30da,anglican.holdings,available,64.99,64.99,low,low,8,namesilo,,,
-2a22747d-4fa9-49a5-a54f-f10217074dc9,defend.holdings,available,64.99,64.99,high,low,6,namesilo,,,
 f0f54970-663b-4bbb-93bc-96c4ece8eb5d,garret.holdings,available,64.99,64.99,low,low,6,namesilo,,,07/08/2026 15:51
 2f94832f-bbb8-486b-be1b-1f6c2eb2f445,candidacy.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 910f67a8-278e-4bf6-b199-d2b16414f056,togetherwith.holdings,available,64.99,64.99,low,low,13,namesilo,,,
@@ -672,7 +670,7 @@ f0f54970-663b-4bbb-93bc-96c4ece8eb5d,garret.holdings,available,64.99,64.99,low,l
 ccbf1f53-d8eb-4b4a-9fbe-1c4b99b3eb79,boozer.holdings,available,64.99,64.99,low,low,6,namesilo,,,
 5611c850-8328-4cab-a205-a0920132882c,robin.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 ca0197e8-beca-4fd1-859b-f62c1135c47e,cone.holdings,available,64.99,64.99,medium,low,4,namesilo,,,
-584df59a-0d7e-4b9c-b160-e48abfb93e69,bullying.holdings,available,64.99,64.99,medium,low,8,namesilo,,,
+584df59a-0d7e-4b9c-b160-e48abfb93e69,bullying.holdings,available,64.99,64.99,low,low,8,namesilo,,,23/09/2026 10:48
 170172a9-7e75-45c6-ba65-e8c8bcb5f2a1,releasecandidate.holdings,available,64.99,64.99,high,low,17,namesilo,,,
 828ce890-0e4e-4db4-9e07-9c13630f7653,explore.holdings,available,64.99,64.99,high,medium,7,namesilo,,,
 14d13610-1083-4fea-acc9-bf7a78aeaf7d,coffin.holdings,available,64.99,64.99,medium,low,6,namesilo,,,
@@ -720,7 +718,7 @@ ec8237ca-3955-41fa-af3a-f2395558ed63,spiritual.holdings,available,64.99,64.99,me
 0f209b33-fe26-43f6-8059-1353e995dbba,imustsay.holdings,available,64.99,64.99,medium,low,10,namesilo,,,
 b129b347-7d14-4934-9e86-b6f6f2329464,commentate.holdings,available,64.99,64.99,high,low,10,namesilo,,,
 3fc0fd76-a96c-4dfe-a4cf-60a2f2f86247,briefingnote.holdings,available,80.99,,high,low,13,name.com,,,
-a20ece2d-d55b-43d9-9cee-1dc7914b518c,uptodate.holdings,available,80.99,84.99,high,low,10,name.com,,,
+a20ece2d-d55b-43d9-9cee-1dc7914b518c,uptodate.holdings,available,67.98,81.98,medium,low,10,namecheap,,,24/09/2026 04:17
 d2436f26-bc57-422a-b97c-b4dd7310b5c7,northkorea.holdings,available,64.99,64.99,low,low,11,namesilo,,,
 2b5087c4-b692-4473-b553-28307d9e24d2,redpanda.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 6794ae7f-00e5-4b9d-ae8e-a3cba7f8dc3d,linear.holdings,available,64.99,64.99,low,low,6,namesilo,,,
@@ -771,11 +769,10 @@ d20bf9b6-307b-492a-ac4c-82394224cda4,undynamic.holdings,available,64.99,64.99,lo
 c52656aa-b29d-4043-b4f0-ca7f73ee825d,experience.holdings,available,64.99,64.99,high,low,10,namesilo,,,
 e7ea10c9-69a7-44b3-96ee-9a73be14ca04,ability.holdings,available,64.99,64.99,medium,low,7,namesilo,,,
 f21b0fc8-1d49-4cfc-b244-c678faa89ad8,cheesefood.holdings,available,64.99,64.99,medium,low,11,namesilo,,,
-12c199af-478c-4a2d-9f8f-8b7c3d21aedf,powerful.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 97c93f4e-25b1-4285-9ea6-3a7353647e30,sale.holdings,premium,123.75,,high,low,4,name.com,,,
 bae429c3-4150-43f5-b505-ca6312ce28ba,intense.holdings,available,64.99,64.99,high,low,7,namesilo,,,
 3f8701db-23fd-4349-ad67-8c061789901d,delicate.holdings,available,80.99,84.99,high,low,8,name.com,,,
-9260fbab-6419-4153-af8d-9bba134fa5c0,competent.holdings,available,80.99,84.99,high,low,9,name.com,,,
+9260fbab-6419-4153-af8d-9bba134fa5c0,competent.holdings,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 17:16
 235d83c9-6f00-486d-ac8d-4047c725d711,lowback.holdings,available,64.99,64.99,medium,low,8,namesilo,,,
 f4aa6650-fccb-4cef-b442-952c7ace906b,healing.holdings,available,64.99,64.99,high,low,7,namesilo,,,
 4c0c6e4f-6599-452b-b7fd-27f97ace82e8,chiefjustice.holdings,available,64.99,64.99,medium,low,13,namesilo,,,
@@ -821,12 +818,12 @@ bea08a8e-910b-4548-8dc9-e5dea081f074,resignation.holdings,available,80.99,,mediu
 67ec2955-0d40-492f-82e8-f19c423e0c05,incidence.holdings,available,64.99,64.99,medium,low,9,namesilo,,,
 f8068e67-b4ca-4537-977c-46c276b8c300,start.holdings,available,64.99,64.99,high,medium,5,namesilo,,,
 5f510222-27e5-4ddf-9342-c957f1345880,jacket.holdings,available,80.99,,high,low,6,name.com,,,
-700bab4f-77fe-4ff3-a006-c332fd2456fe,chance.holdings,available,64.99,64.99,high,low,6,namesilo,,,
+700bab4f-77fe-4ff3-a006-c332fd2456fe,chance.holdings,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:44
 9dcf601e-dcfb-4e14-a44a-233ae9f63aa6,voting.holdings,available,64.99,64.99,high,low,6,namesilo,,,
-ffef60a6-181c-4952-985c-2bf9fe753ccc,cooked.holdings,available,80.99,84.99,high,low,6,name.com,,,
+ffef60a6-181c-4952-985c-2bf9fe753ccc,cooked.holdings,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 22:56
 6b4cf0b2-b977-46bc-9687-2df024e0f464,rated.holdings,available,64.99,64.99,medium,low,5,namesilo,,,
 e726e6d1-e54d-4dad-8089-ac54ec4c452f,ideal.holdings,available,64.99,64.99,high,low,5,namesilo,,,
-fe983629-0fe7-4f1f-8fc8-df30f0bcdf5c,committed.holdings,available,64.99,64.99,high,low,9,namesilo,,,
+fe983629-0fe7-4f1f-8fc8-df30f0bcdf5c,committed.holdings,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 15:46
 8e4db917-4d77-469e-bb01-5d27e5cfe5ee,entirety.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 0a2122ff-c8b2-4e32-9cb3-f7ee037ce9fa,doublecheck.holdings,available,64.99,64.99,high,low,12,namesilo,,,
 ada4969f-cf66-48cd-bf84-1d9b7b87ca0f,leaders.holdings,available,64.99,64.99,high,low,7,namesilo,,,
@@ -845,7 +842,7 @@ adde7f2d-aa81-4655-9691-ebc24d48e266,turned.holdings,available,64.99,64.99,mediu
 b028953f-3b0e-4385-a28c-60ad3c3a4478,glove.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 9e42b289-6b05-4fa7-a512-445e73a0850e,aaron.holdings,available,64.99,64.99,medium,low,5,namesilo,,,
 c4286bbf-c7cd-4380-b3ae-5c1bfc85c304,painpill.holdings,available,64.99,64.99,low,low,9,namesilo,,,
-8b32960e-f37c-4ba2-ab18-0811cab4eed2,superb.holdings,available,64.99,64.99,high,low,6,namesilo,,,
+8b32960e-f37c-4ba2-ab18-0811cab4eed2,superb.holdings,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 09:28
 addb5419-60c8-4557-861c-ace87ff1209d,threescore.holdings,available,64.99,64.99,low,low,10,namesilo,,,
 f83a433b-63aa-46ae-93be-72a1fc9a6b93,note.holdings,available,80.99,,medium,low,4,name.com,,,
 dd20e5e0-352b-4aeb-9eaa-a2cb38353468,advantage.holdings,available,64.99,64.99,high,low,9,namesilo,,,
@@ -857,7 +854,7 @@ e2921fd4-bdcc-430e-a5bf-31a104eea6d5,within.holdings,available,64.99,64.99,high,
 5124ddca-8822-4499-b706-970cc8b531ee,respects.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 a17b8631-78b8-41ee-9775-619e32883676,roast.holdings,available,80.99,,high,low,5,name.com,,,
 2e86d4e0-b567-4f66-b5fb-5cf63c0f7a55,rising.holdings,available,64.99,64.99,low,low,6,namesilo,,,
-4e290d54-eee9-420f-b7b6-fdabdce2997a,creepy.holdings,available,80.99,84.99,medium,low,6,name.com,,,
+4e290d54-eee9-420f-b7b6-fdabdce2997a,creepy.holdings,available,67.98,81.98,low,low,6,namecheap,,,24/09/2026 01:42
 dbb5c2db-8bee-496b-9ef5-4bddac6b240d,front.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 873cf893-ae7e-4bd4-bdc9-c3d2d35d1cfe,profound.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 5aa610f1-7998-4e3e-b1d4-a80cf2657540,separateschool.holdings,available,80.99,,high,low,15,name.com,,,
@@ -895,8 +892,8 @@ bf414577-3c8a-4cc6-b3dc-e475fd4173fa,constantly.holdings,available,64.99,64.99,m
 d5c94301-8f88-4c3f-93c8-63c3f246459a,distress.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 3f249341-98b6-40b7-b4e8-44da7cafda59,palestine.holdings,available,,,medium,low,9,,,,
 5fbeec5d-5a74-488f-9f20-a26ddbaa75eb,martha.holdings,available,64.99,64.99,high,low,6,namesilo,,,
-4ded0acf-c95f-4bd5-b8e0-9a81fa46c788,continued.holdings,available,80.99,84.99,high,low,9,name.com,,,
-c82ce9c4-d166-4c11-a4df-8ecabb3e90ae,discourse.holdings,available,80.99,84.99,high,low,9,name.com,,,
+4ded0acf-c95f-4bd5-b8e0-9a81fa46c788,continued.holdings,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 22:14
+c82ce9c4-d166-4c11-a4df-8ecabb3e90ae,discourse.holdings,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 22:52
 ef1eeb12-cdea-49d2-9e5e-22abc3038517,staring.holdings,available,64.99,64.99,low,low,7,namesilo,,,21/09/2026 22:19
 df6473a0-c4ec-410c-89ac-a2e678ceee36,zestful.holdings,available,64.99,64.99,low,low,7,namesilo,,,08/08/2026 19:51
 b0039013-072e-48e6-a49c-37f9f16dc921,fretful.holdings,available,64.99,64.99,low,low,7,namesilo,,,05/08/2026 20:37
@@ -924,7 +921,7 @@ ddcd7392-5878-48d3-9cd8-2d5838bf0b0c,yellowcake.holdings,available,64.99,64.99,l
 b6ae5006-07e2-465a-aa5f-7ac960836b75,presentation.holdings,available,80.99,,medium,low,12,name.com,,,
 cf2cc9ba-cf75-41e0-997a-1cc304a84f39,butcher.holdings,available,64.99,64.99,medium,low,7,namesilo,,,
 4276be63-b122-448e-a955-26d51315c960,conduction.holdings,available,64.99,64.99,high,low,10,namesilo,,,
-4b8cdbfc-04cf-416f-8a38-e17b7afd7964,covered.holdings,available,80.99,84.99,high,low,7,name.com,,,
+4b8cdbfc-04cf-416f-8a38-e17b7afd7964,covered.holdings,available,64.99,64.99,medium,low,7,namesilo,,,24/09/2026 00:50
 3aae2730-6499-4cdd-bfff-9d2be05f5c99,trap.holdings,available,64.99,64.99,medium,low,4,namesilo,,,
 31f15458-b197-4932-9f27-7d8c88361fd2,endorsee.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 e11e187e-d9c8-4093-bd2a-f660108fc999,longitude.holdings,available,64.99,64.99,medium,low,9,namesilo,,,
@@ -934,7 +931,7 @@ cebc6292-89d2-46a9-adb8-de11e2993b5f,searching.holdings,available,64.99,64.99,hi
 d27ef9bf-f2be-42cb-8d74-1fbf189df54a,abulic.holdings,available,64.99,64.99,low,low,6,namesilo,,,
 745d640b-3ece-42a9-904e-73a31b891b78,miffed.holdings,available,,,medium,low,6,,,,
 90f9948b-0e76-4dfd-b25d-5aa9f72a47b8,thisevening.holdings,available,64.99,64.99,low,low,12,namesilo,,,
-a0736c92-296c-4c11-ad3f-70fc66eefbe4,conclusive.holdings,available,64.99,64.99,medium,low,10,namesilo,,,
+a0736c92-296c-4c11-ad3f-70fc66eefbe4,conclusive.holdings,available,67.98,81.98,medium,low,10,namecheap,,,23/09/2026 19:11
 598dd4fc-a7ac-4c3b-a9e5-1a82797133fb,tonic.holdings,available,64.99,64.99,medium,low,5,namesilo,,,19/09/2026 16:01
 663994e8-bae5-4e41-84c6-fa973fb8ca66,cross.holdings,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 16:13
 7287c685-2c45-4b0b-a5fd-0fbcbcdc885b,thirtyone.holdings,available,64.99,64.99,low,low,10,namesilo,,,
@@ -971,7 +968,6 @@ fa2a3dc8-d0fc-4c69-95d7-686fe41a0b53,ones.holdings,available,64.99,64.99,high,lo
 0d4787aa-a0bd-4306-9a57-8bfc1ea0bc22,earlyadopter.holdings,available,64.99,64.99,high,low,13,namesilo,,,
 e22a7962-4295-426c-aa35-c796574d751a,atthedouble.holdings,available,64.99,64.99,high,low,13,namesilo,,,
 bad33ecd-5106-4a13-a2a1-e4404ba5bb06,spell.holdings,available,64.99,64.99,high,low,5,namesilo,,,
-b0771c4d-7b83-4510-ace7-7e160e48c1d4,quality.holdings,available,64.99,64.99,high,low,7,namesilo,,,
 43dc218f-fef0-405e-bdf6-d1e7a5003e44,donut.holdings,available,64.99,64.99,high,low,5,namesilo,,,
 aeeed1f2-e0c4-469e-8292-e878fd15d328,expertise.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 873ce6d2-961c-41ae-908b-b46cdb311201,acronymic.holdings,available,64.99,64.99,low,low,9,namesilo,,,
@@ -999,3 +995,7 @@ f5874631-db4d-4e18-b8d5-0b9f95c3eecf,monetary.holdings,available,64.99,64.99,med
 4b524dd9-ad47-4523-a056-c57161e4b279,subscribe.holdings,available,64.99,64.99,high,low,9,namesilo,,,
 f5c23f50-36dd-4bdb-8218-908927694ae8,somehow.holdings,available,80.99,,medium,low,7,name.com,,,
 94db9c07-15a7-4172-9354-7bd3a1dd150b,perfectly.holdings,available,64.99,64.99,high,low,9,namesilo,,,
+2675b565-a2b0-448e-b5df-7cbc6468c472,inexorable.holdings,available,64.99,64.99,low,low,10,namesilo,,,
+5fdfab11-9731-4ac7-ab11-6a8ea43e09f0,believable.holdings,available,64.99,64.99,medium,low,10,namesilo,,,09/08/2026 13:01
+6dac2607-1d4d-4150-8d98-1a928d64215d,weakened.holdings,available,64.99,64.99,low,low,8,namesilo,,,22/09/2026 11:29
+7f2356a6-7f74-433f-9273-38cac07b24c6,aphotic.holdings,available,64.99,64.99,low,low,7,namesilo,,,05/08/2026 23:37
